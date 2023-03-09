@@ -1,1 +1,52 @@
-# Readme-generator![7F3F1FA5-FDEB-4B1B-80DA-0061145B7E1F_1_102_o](https://user-images.githubusercontent.com/116052035/215397204-21907a6a-512c-4919-8fa6-67072841b27f.jpeg)
+# Read-Me Generator
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+  ## Description
+
+Processing Read-me's in a professional style can be easily generated
+
+## Table of Contents 
+
+* [Installation](#installation)
+
+* [Usage](#usage)
+
+* [License](#license)
+
+* [Contributing](#contributing)
+
+* [Tests](#tests)
+
+* [Questions](#questions)
+
+## Installation
+
+To install necessary dependencies, run the following command:
+
+```
+npm i
+```
+
+## Usage
+
+Licensed under MIT
+
+## License
+
+This project is licensed under the MIT license.
+  
+## Contributing
+
+MIT Licensed
+
+## Tests
+
+To run tests, run the following command:
+
+```
+npm test
+```
+
+## Questions
+
+If you have any questions about the repo, open an issue or contact me directly at mightyfresh1@gmail.com. You can find more of my work at [jgg023](https://github.com/jgg023/).
+
